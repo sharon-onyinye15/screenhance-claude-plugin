@@ -18,5 +18,9 @@
     "fastlane",
     "design"
   ],
-  "repository": "https://github.com/sharon-onyinye15/screenhance-claude-plugin"
+  "repository": "https://github.com/sharon-onyinye15/screenhance-claude-plugin",
+  "documentationUrl": "https://app.screenhance.com/support",
+  "supportUrl": "https://app.screenhance.com/support",
+  "privacyPolicyUrl": "https://app.screenhance.com/privacy",
+  "termsOfServiceUrl": "https://app.screenhance.com/terms"
 }
