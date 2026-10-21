@@ -1,0 +1,22 @@
+{
+  "name": "screenhance",
+  "displayName": "Screenhance",
+  "version": "1.0.0",
+  "description": "Turn your real app screenshots into App Store and Google Play screenshots, product films, mockups and launch artwork, then preview, edit and export them from Claude.",
+  "author": {
+    "name": "Screenhance",
+    "email": "support@screenhance.com",
+    "url": "https://screenhance.com"
+  },
+  "homepage": "https://app.screenhance.com/support",
+  "license": "MIT",
+  "keywords": [
+    "app-store",
+    "google-play",
+    "screenshots",
+    "mockups",
+    "fastlane",
+    "design"
+  ],
+  "repository": "https://github.com/sharon-onyinye15/screenhance-claude-plugin"
+}
