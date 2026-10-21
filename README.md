@@ -24,3 +24,7 @@ Screenhance turns your real app screenshots into designed App Store and Google P
 - **Storage:** screenshots, projects and exports stay in your Screenhance account until you delete them. Disconnect at any time from Claude or from Screenhance under Connected apps.
 
 Read the [privacy policy](https://app.screenhance.com/privacy) and [terms](https://app.screenhance.com/terms). Help: support@screenhance.com.
+
+## License
+
+Copyright (c) 2026 Screenhance. All rights reserved. You may install and use this plugin with a Screenhance account; see [LICENSE](LICENSE).
